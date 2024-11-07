@@ -1,2 +1,2 @@
 # Reconstruct-dynamic-fluid-surfaces
-### Test for code
+### This is a simple submission version, instructions on how to use it and code explanations will be released soon.
